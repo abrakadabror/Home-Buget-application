@@ -21,3 +21,38 @@ print(df[(df['Kategoria'] == 'Rachunki') | (df['Kategoria'] == 'Mieszkanie')])
 print('\n')
 print('********************')
 print(df[df['Kategoria'] == 'Zdrowie'].head(3))
+print('\n')
+print('************************************************************')
+# wybieramy kategorie  Uroda i osobe o imieniu Adel
+print(df[(df['Kategoria'] == 'Uroda') & (df['Imię'] == 'Adele')])
+
+print('\n')
+print('************************************************************')
+# podajemy kolumne po ktorej chcemy sortowac dane
+# dodanie asc = false od najwiekszego do najmnijeszego
+print(df[df['Kategoria'] == 'Rachunki'].sort_values(
+    'Wartość', ascending=False).head(5))
+print('************************************************************')
+
+df['Nowa wartość'] = df.apply(
+    lambda row: row['Wartość'] if row['Rodzaj'] == 'Przychód' else row['Wartość'] * -1, axis=1)
+print(df['Nowa wartość'])
+PLN = 'zł'
+print(df['Nowa wartość'].sum())
+
+# pobieramy rok i miesiac i grupujemy dane po latach  i po miesiacach. Tym samym wskazujemy liste po ktorej chcemy grupowac dane. Po czym tworzymy nowa wartosc, ktora jest suma
+
+print(df.groupby([pd.Grouper(key='Data', freq='Y'),
+      pd.Grouper(key='Data', freq='M')])['Nowa wartość'].sum())
+
+
+print('************************************************************')
+
+
+df['Rok'] = df['Data'].dt.strftime('%Y')
+df['Miesiąc'] = df['Data'].dt.strftime('%m')
+print(df.groupby(['Rok', 'Miesiąc'])['Nowa wartość'].sum())
+
+
+grupowanie = (df.groupby(['Rok', 'Miesiąc'])['Nowa wartość'].sum())
+print(grupowanie.plot())
