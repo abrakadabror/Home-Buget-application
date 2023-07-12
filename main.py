@@ -13,4 +13,11 @@ print(df['Kategoria'].unique())  # drukujemy jedynie unikatowe dane
 
 
 # piszemy warunek, ktory powie nam kto wydaje najwiecej na Kulture
-print(df[df['Kategoria'] == 'Rachunki'])
+# okreslamy tylko trzy pierwsze pozycje
+print(df[df['Kategoria'] == 'Rachunki'].head(3))
+
+# kolumna kategoria zawiera teraz wartosc rachunki oraz mieszkanie
+print(df[(df['Kategoria'] == 'Rachunki') | (df['Kategoria'] == 'Mieszkanie')])
+print('\n')
+print('********************')
+print(df[df['Kategoria'] == 'Zdrowie'].head(3))
