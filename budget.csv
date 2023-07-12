@@ -1,0 +1,154 @@
+Rodzaj,Data,Imię,Opis,Kategoria,Wartość
+Wydatek,2023-01-01,Sam,Artykuły spożywcze,Jedzenie,120.50
+Wydatek,2023-01-02,Betty,Prąd elektryczny,Rachunki,80.00
+Wydatek,2023-01-03,John,Benzyna,Transport,50.00
+Wydatek,2023-01-04,Adele,Ubrania,Odzież,150.00
+Wydatek,2023-01-05,Sam,Obiad,Jedzenie,45.00
+Wydatek,2023-01-06,Betty,Internet,Rachunki,60.00
+Wydatek,2023-01-07,John,Naprawa samochodów,Transport,200.00
+Wydatek,2023-01-08,Adele,Książki,Rozrywka,35.00
+Wydatek,2023-01-09,Sam,Lunch,Jedzenie,15.50
+Wydatek,2023-01-01,Betty,Woda,Rachunki,30.00
+Wydatek,2023-01-11,John,Transport publiczny,Transport,20.00
+Wydatek,2023-01-12,Adele,Filmy,Rozrywka,20.00
+Wydatek,2023-01-13,Sam,Kawa,Jedzenie,5.00
+Wydatek,2023-01-14,Betty,Gaz,Rachunki,40.00
+Przychód,2023-01-15,Betty,Pensja,Wynagrodzenie,8300.00
+Przychód,2023-01-15,Sam,Pensja,Wynagrodzenie,6300.00
+Wydatek,2023-01-15,John,Ubezpieczenie samochodu,Transport,120.00
+Wydatek,2023-01-16,Adele,Bilety na koncerty,Rozrywka,100.00
+Wydatek,2023-01-17,Sam,Śniadanie,Jedzenie,10.00
+Wydatek,2023-01-18,Betty,Telefon,Rachunki,50.00
+Wydatek,2023-01-19,John,Parking,Transport,15.00
+Wydatek,2023-01-20,Adele,Gry wideo,Rozrywka,60.00
+Wydatek,2023-01-21,Sam,Artykuły spożywcze,Jedzenie,90.00
+Wydatek,2023-01-22,Betty,Prąd elektryczny,Rachunki,85.00
+Wydatek,2022-01-01,Sam,Przeprowadzka,Mieszkanie,5000
+Wydatek,2022-01-02,Betty,Spodnie,Odzież,150
+Wydatek,2022-01-03,John,Obiad w restauracji,Jedzenie,80
+Wydatek,2022-01-04,Adele,Kosmetyki,Uroda,50
+Wydatek,2022-01-05,Sam,Opłata za prąd,Rachunki,100
+Wydatek,2022-01-06,Betty,Książka,Kultura,30
+Wydatek,2022-01-07,John,Podatek od nieruchomości,Rachunki,500
+Wydatek,2022-01-08,Adele,Nowe buty,Obuwie,200
+Przychód,2022-01-09,Sam,Zwrot podatku,Inne,9000
+Wydatek,2022-01-10,Betty,Opłata za telewizję kablową,Rachunki,50
+Wydatek,2022-01-11,John,Bilet do kina,Kultura,20
+Wydatek,2022-01-12,Adele,Wizyta u dentysty,Zdrowie,150
+Wydatek,2022-01-13,Sam,Koszty związane z samochodem,Transport,300
+Wydatek,2022-01-14,Betty,Fryzjer,Uroda,150
+Wydatek,2022-01-15,John,Koszty związane z psem,Zwierzęta,100
+Wydatek,2023-02-01,Sam,Artykuły spożywcze,Jedzenie,120.50
+Wydatek,2023-02-02,Betty,Prąd elektryczny,Rachunki,80.00
+Wydatek,2023-02-03,John,Benzyna,Transport,50.00
+Wydatek,2023-02-04,Adele,Ubrania,Odzież,150.00
+Wydatek,2023-02-05,Sam,Obiad,Jedzenie,45.00
+Wydatek,2023-02-06,Betty,Internet,Rachunki,60.00
+Wydatek,2023-02-07,John,Naprawa samochodów,Transport,200.00
+Wydatek,2023-02-08,Adele,Książki,Rozrywka,35.00
+Wydatek,2023-02-09,Sam,Lunch,Jedzenie,15.50
+Wydatek,2023-02-01,Betty,Woda,Rachunki,30.00
+Wydatek,2023-02-11,John,Transport publiczny,Transport,20.00
+Wydatek,2023-02-12,Adele,Filmy,Rozrywka,20.00
+Wydatek,2023-02-13,Sam,Kawa,Jedzenie,5.00
+Wydatek,2023-02-14,Betty,Gaz,Rachunki,40.00
+Wydatek,2023-02-15,John,Ubezpieczenie samochodu,Transport,120.00
+Przychód,2023-02-15,Betty,Pensja,Wynagrodzenie,4300.00
+Przychód,2023-02-15,Sam,Pensja,Wynagrodzenie,3300.00
+Wydatek,2023-02-16,Adele,Bilety na koncerty,Rozrywka,100.00
+Wydatek,2023-02-17,Sam,Śniadanie,Jedzenie,10.00
+Wydatek,2023-02-18,Betty,Telefon,Rachunki,50.00
+Wydatek,2023-02-19,John,Parking,Transport,15.00
+Wydatek,2023-02-20,Adele,Gry wideo,Rozrywka,60.00
+Wydatek,2023-02-21,Sam,Artykuły spożywcze,Jedzenie,90.00
+Wydatek,2023-02-22,Betty,Prąd elektryczny,Rachunki,85.00
+Wydatek,2022-02-01,Sam,Przeprowadzka,Mieszkanie,5000
+Wydatek,2022-02-02,Betty,Spodnie,Odzież,150
+Wydatek,2022-02-03,John,Obiad w restauracji,Jedzenie,80
+Wydatek,2022-02-04,Adele,Kosmetyki,Uroda,50
+Wydatek,2022-02-05,Sam,Opłata za prąd,Rachunki,100
+Wydatek,2022-02-06,Betty,Książka,Kultura,30
+Wydatek,2022-02-07,John,Podatek od nieruchomości,Rachunki,500
+Wydatek,2022-02-08,Adele,Nowe buty,Obuwie,200
+Przychód,2022-02-09,Sam,Zwrot podatku,Inne,1000
+Wydatek,2022-02-10,Betty,Opłata za telewizję kablową,Rachunki,50
+Wydatek,2022-02-11,John,Bilet do kina,Kultura,20
+Wydatek,2022-02-12,Adele,Wizyta u dentysty,Zdrowie,150
+Wydatek,2022-02-13,Sam,Koszty związane z samochodem,Transport,300
+Wydatek,2022-02-14,Betty,Fryzjer,Uroda,150
+Wydatek,2022-02-15,John,Koszty związane z psem,Zwierzęta,100
+Wydatek,2023-03-01,Sam,Artykuły spożywcze,Jedzenie,120.50
+Wydatek,2023-03-02,Betty,Prąd elektryczny,Rachunki,80.00
+Wydatek,2023-03-03,John,Benzyna,Transport,50.00
+Wydatek,2023-03-04,Adele,Ubrania,Odzież,150.00
+Wydatek,2023-03-05,Sam,Obiad,Jedzenie,45.00
+Wydatek,2023-03-06,Betty,Internet,Rachunki,60.00
+Wydatek,2023-03-07,John,Naprawa samochodów,Transport,200.00
+Wydatek,2023-03-08,Adele,Książki,Rozrywka,35.00
+Wydatek,2023-03-09,Sam,Lunch,Jedzenie,15.50
+Wydatek,2023-03-01,Betty,Woda,Rachunki,30.00
+Wydatek,2023-03-11,John,Transport publiczny,Transport,20.00
+Wydatek,2023-03-12,Adele,Filmy,Rozrywka,20.00
+Wydatek,2023-03-13,Sam,Kawa,Jedzenie,5.00
+Wydatek,2023-03-14,Betty,Gaz,Rachunki,40.00
+Wydatek,2023-03-15,John,Ubezpieczenie samochodu,Transport,120.00
+Przychód,2023-03-15,Betty,Pensja,Wynagrodzenie,4300.00
+Przychód,2023-03-15,Sam,Pensja,Wynagrodzenie,3300.00
+Wydatek,2023-03-16,Adele,Bilety na koncerty,Rozrywka,100.00
+Wydatek,2023-03-17,Sam,Śniadanie,Jedzenie,10.00
+Wydatek,2023-03-18,Betty,Telefon,Rachunki,50.00
+Wydatek,2023-03-19,John,Parking,Transport,15.00
+Wydatek,2023-03-20,Adele,Gry wideo,Rozrywka,60.00
+Wydatek,2023-03-21,Sam,Artykuły spożywcze,Jedzenie,90.00
+Wydatek,2022-04-02,Betty,Spodnie,Odzież,150
+Wydatek,2022-04-03,John,Obiad w restauracji,Jedzenie,80
+Wydatek,2022-04-04,Adele,Kosmetyki,Uroda,50
+Wydatek,2022-04-05,Sam,Opłata za prąd,Rachunki,100
+Wydatek,2022-04-06,Betty,Książka,Kultura,30
+Wydatek,2022-04-07,John,Podatek od nieruchomości,Rachunki,500
+Wydatek,2022-04-08,Adele,Nowe buty,Obuwie,200
+Przychód,2022-04-09,Sam,Zwrot podatku,Inne,1000
+Wydatek,2022-04-10,Betty,Opłata za telewizję kablową,Rachunki,50
+Wydatek,2022-04-11,John,Bilet do kina,Kultura,20
+Wydatek,2022-04-12,Adele,Wizyta u dentysty,Zdrowie,150
+Wydatek,2022-04-13,Sam,Koszty związane z samochodem,Transport,300
+Wydatek,2022-04-14,Betty,Fryzjer,Uroda,150
+Wydatek,2022-04-15,John,Koszty związane z psem,Zwierzęta,100
+Przychód,2023-04-15,Betty,Pensja,Wynagrodzenie,4300.00
+Przychód,2023-04-15,Sam,Pensja,Wynagrodzenie,3300.00
+Wydatek,2023-04-01,Sam,Artykuły spożywcze,Jedzenie,120.50
+Wydatek,2023-04-02,Betty,Prąd elektryczny,Rachunki,80.00
+Wydatek,2023-04-03,John,Benzyna,Transport,50.00
+Wydatek,2023-04-04,Adele,Ubrania,Odzież,150.00
+Wydatek,2023-04-05,Sam,Obiad,Jedzenie,45.00
+Wydatek,2023-04-06,Betty,Internet,Rachunki,60.00
+Wydatek,2023-04-07,John,Naprawa samochodów,Transport,200.00
+Wydatek,2023-05-05,Sam,Obiad,Jedzenie,45.00
+Wydatek,2023-05-06,Betty,Internet,Rachunki,60.00
+Wydatek,2023-05-07,John,Naprawa samochodów,Transport,200.00
+Wydatek,2023-05-08,Adele,Książki,Rozrywka,35.00
+Przychód,2023-05-15,Betty,Pensja,Wynagrodzenie,4300.00
+Przychód,2023-05-15,Sam,Pensja,Wynagrodzenie,3300.00
+Wydatek,2023-05-09,Sam,Lunch,Jedzenie,15.50
+Wydatek,2023-05-01,Betty,Woda,Rachunki,30.00
+Wydatek,2023-05-11,John,Transport publiczny,Transport,20.00
+Wydatek,2023-05-12,Adele,Filmy,Rozrywka,20.00
+Wydatek,2023-05-13,Sam,Kawa,Jedzenie,5.00
+Wydatek,2023-05-14,Betty,Gaz,Rachunki,40.00
+Wydatek,2023-05-15,John,Ubezpieczenie samochodu,Transport,120.00
+Wydatek,2023-05-16,Adele,Bilety na koncerty,Rozrywka,100.00
+Wydatek,2023-05-17,Sam,Śniadanie,Jedzenie,10.00
+Wydatek,2023-05-18,Betty,Telefon,Rachunki,50.00
+Wydatek,2023-05-19,John,Parking,Transport,15.00
+Wydatek,2023-05-20,Adele,Gry wideo,Rozrywka,60.00
+Wydatek,2023-05-21,Sam,Artykuły spożywcze,Jedzenie,90.00
+Wydatek,2022-05-02,Betty,Spodnie,Odzież,150
+Wydatek,2022-05-03,John,Obiad w restauracji,Jedzenie,80
+Wydatek,2022-05-04,Adele,Kosmetyki,Uroda,50
+Wydatek,2022-05-05,Sam,Opłata za prąd,Rachunki,100
+Wydatek,2022-05-06,Betty,Książka,Kultura,30
+Wydatek,2022-05-07,John,Podatek od nieruchomości,Rachunki,500
+Wydatek,2022-05-08,Adele,Nowe buty,Obuwie,200
+Przychód,2022-05-09,Sam,Zwrot podatku,Inne,1000
+Przychód,2023-06-15,Betty,Pensja,Wynagrodzenie,4300.00
+Przychód,2023-06-15,Sam,Pensja,Wynagrodzenie,3300.00
